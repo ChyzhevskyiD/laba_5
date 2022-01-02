@@ -1,0 +1,14 @@
+C:\Users\Dima\source\repos\laba_5555(2)\laba_5555(2)\bin\Debug\netcoreapp3.1\laba_5555(2).exe
+C:\Users\Dima\source\repos\laba_5555(2)\laba_5555(2)\bin\Debug\netcoreapp3.1\laba_5555(2).deps.json
+C:\Users\Dima\source\repos\laba_5555(2)\laba_5555(2)\bin\Debug\netcoreapp3.1\laba_5555(2).runtimeconfig.json
+C:\Users\Dima\source\repos\laba_5555(2)\laba_5555(2)\bin\Debug\netcoreapp3.1\laba_5555(2).runtimeconfig.dev.json
+C:\Users\Dima\source\repos\laba_5555(2)\laba_5555(2)\bin\Debug\netcoreapp3.1\laba_5555(2).dll
+C:\Users\Dima\source\repos\laba_5555(2)\laba_5555(2)\bin\Debug\netcoreapp3.1\laba_5555(2).pdb
+C:\Users\Dima\source\repos\laba_5555(2)\laba_5555(2)\obj\Debug\netcoreapp3.1\laba_5555(2).csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\laba_5555(2)\laba_5555(2)\obj\Debug\netcoreapp3.1\laba_5555(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\source\repos\laba_5555(2)\laba_5555(2)\obj\Debug\netcoreapp3.1\laba_5555(2).AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\laba_5555(2)\laba_5555(2)\obj\Debug\netcoreapp3.1\laba_5555(2).AssemblyInfo.cs
+C:\Users\Dima\source\repos\laba_5555(2)\laba_5555(2)\obj\Debug\netcoreapp3.1\laba_5555(2).csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\laba_5555(2)\laba_5555(2)\obj\Debug\netcoreapp3.1\laba_5555(2).dll
+C:\Users\Dima\source\repos\laba_5555(2)\laba_5555(2)\obj\Debug\netcoreapp3.1\laba_5555(2).pdb
+C:\Users\Dima\source\repos\laba_5555(2)\laba_5555(2)\obj\Debug\netcoreapp3.1\laba_5555(2).genruntimeconfig.cache
